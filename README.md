@@ -24,3 +24,6 @@ help you to make a right decision, because:
 The idea of this site is not revolutionary. Chromium repository has nice tag
 good-first-task, to help new commiters to make thers first commit as soon
 as posisble.
+
+We hope that some of companies will promote theirs repositories to attract
+a lot of motivated, ambitios programmers to thier projects.
